@@ -1,0 +1,7 @@
+,Pre-Model Correlation,Post-Model Importance (RF),Post-Model Performance (R²)
+All Other Services Goods,-0.0243,0.2187,0.064
+Apparel,0.1843,0.0067,0.0555
+Food,0.1263,0.0002,-0.0003
+Housing,0.2119,0.0161,0.0489
+Medical,,0.0414,-0.0062
+Transportation,-0.0039,0.4212,0.0161

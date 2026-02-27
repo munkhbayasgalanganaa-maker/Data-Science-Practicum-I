@@ -1,0 +1,34 @@
+feature
+mean_tariff
+mean_tariff_lag3
+mean_tariff_lag6
+mean_tariff_lag12
+cpi_yoy_lag1
+cpi_yoy_lag3
+cpi_yoy_lag6
+cpi_yoy_lag12
+cat_All Other Services Goods
+cat_Apparel
+cat_Food
+cat_Housing
+cat_Medical
+cat_Transportation
+month_1
+month_2
+month_3
+month_4
+month_5
+month_6
+month_7
+month_8
+month_9
+month_10
+month_11
+month_12
+month_13
+mean_tariff_x_cat_All Other Services Goods
+mean_tariff_x_cat_Apparel
+mean_tariff_x_cat_Food
+mean_tariff_x_cat_Housing
+mean_tariff_x_cat_Medical
+mean_tariff_x_cat_Transportation

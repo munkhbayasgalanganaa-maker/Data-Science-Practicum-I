@@ -1,0 +1,30 @@
+Dataset Inventory – Practicum I
+
+1. CPI Data (BLS)
+   File: CPI 2023-2025.csv
+   Source: U.S. Bureau of Labor Statistics
+   Frequency: Monthly
+   Purpose: Measure consumer price changes over time
+
+2. Tariff Data (USITC)
+   Files:
+   - tariff_database_2023.xlsx
+   - tariff_database_2024.xlsx
+   - tariff_database_2025.xlsx
+   Source: U.S. International Trade Commission
+   Purpose: Identify tariff rates by product and year
+
+3. Trade Tariff Text Files
+   Files:
+   - trade_tariff_database_202307.txt
+   - trade_tariff_database_202405.txt
+   Purpose: Historical tariff snapshots
+
+4. Producer Price Index (PPI)
+   File: wp.data.22.FD-ID.txt
+   Source: U.S. Bureau of Labor Statistics
+   Purpose: Measure producer/import price changes
+
+Supporting Files:
+- wp.series
+- wp.period

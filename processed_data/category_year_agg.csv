@@ -1,0 +1,33 @@
+category,year,mean_value,mean_cpi_yoy,std_cpi_yoy,series_count
+All Items,2022,411.6,3.98,0.41,1022
+All Items,2023,428.52,4.01,1.84,1022
+All Items,2024,441.9,3.82,1.91,1022
+All Items,2025,454.2,3.14,1.35,1022
+All Other Services Goods,2022,275.53,3.13,2.04,836
+All Other Services Goods,2023,291.78,5.87,3.64,826
+All Other Services Goods,2024,305.02,3.86,3.73,816
+All Other Services Goods,2025,317.21,3.31,3.27,815
+Apparel,2022,125.08,2.09,2.0,704
+Apparel,2023,128.58,2.66,3.02,704
+Apparel,2024,129.33,0.54,3.4,704
+Apparel,2025,129.96,0.32,2.89,704
+Commodities Services Special,2022,258.06,5.45,4.37,1726
+Commodities Services Special,2023,263.63,1.75,5.02,1726
+Commodities Services Special,2024,268.69,1.36,3.26,1726
+Commodities Services Special,2025,272.89,1.16,2.58,1726
+Food,2022,255.72,6.49,5.14,3830
+Food,2023,268.78,6.07,18.66,3838
+Food,2024,272.61,1.43,3.47,3840
+Food,2025,279.42,2.33,4.68,3832
+Housing,2022,224.2,5.04,5.18,1637
+Housing,2023,230.14,1.96,7.15,1658
+Housing,2024,233.84,0.6,4.57,1641
+Housing,2025,240.96,2.68,3.93,1622
+Medical,2022,382.06,2.14,1.67,616
+Medical,2023,393.06,2.24,4.91,624
+Medical,2024,405.91,3.1,2.77,613
+Medical,2025,420.62,2.72,1.96,594
+Transportation,2022,257.28,8.92,9.09,1281
+Transportation,2023,253.02,-0.88,9.28,1275
+Transportation,2024,252.77,-0.84,5.67,1265
+Transportation,2025,249.34,-0.44,4.54,1261
