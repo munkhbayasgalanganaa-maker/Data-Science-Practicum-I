@@ -2,7 +2,7 @@
 
 This project studies one simple question:
 
-Do U.S. tariffs help explain changes in CPI (consumer prices), or is CPI history a stronger predictor?
+Do U.S. tariffs related to CPI (consumer prices), or is CPI history a stronger predictor?
 
 ## What this project does
 
